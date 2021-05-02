@@ -34,4 +34,4 @@
 /config/master.key
 
 # Ignore installed gem files.
-/vendor/bundle
+/vender/bundle
